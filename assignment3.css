@@ -1,1 +1,23 @@
 /*styles for assignment 3*/
+body {
+  background-color: red;
+
+}
+
+input[type=text], [type=number] {
+    padding: 8px 8px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+h1 {
+  color: blue;
+  font-family: cursive;
+  text-align: center;
+}
+form {
+  text-align: center;
+}
